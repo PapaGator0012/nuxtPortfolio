@@ -85,7 +85,7 @@
                                 <div class="postbox__comment-box d-sm-flex align-items-start">
                                   <div class="postbox__comment-info">
                                     <div class="postbox__comment-avater">
-                                      <img src="assets/images/avatar/01.jpg" alt="" />
+                                      <img src="" alt="" />
                                     </div>
                                   </div>
                                   <div class="postbox__comment-text ">
@@ -104,7 +104,7 @@
                                     <div class="postbox__comment-box d-sm-flex align-items-start">
                                       <div class="postbox__comment-info">
                                         <div class="postbox__comment-avater">
-                                          <img src="assets/images/avatar/02.jpg" alt="" />
+                                          <img src="" alt="" />
                                         </div>
                                       </div>
                                       <div class="postbox__comment-text ">
@@ -125,7 +125,7 @@
                                 <div class="postbox__comment-box d-sm-flex align-items-start">
                                   <div class="postbox__comment-info">
                                     <div class="postbox__comment-avater">
-                                      <img src="assets/images/avatar/01.jpg" alt="" />
+                                      <img src="" alt="" />
                                     </div>
                                   </div>
                                   <div class="postbox__comment-text ">
