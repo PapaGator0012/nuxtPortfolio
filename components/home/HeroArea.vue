@@ -21,22 +21,22 @@
     <ul class="clienti-profile">
         <li>
             <a href="#testimonials">
-                <img class="img-fluid" src="assets/images/avatar/01.jpeg" alt="client">
+                <img class="img-fluid" src="assets/images/avatar/01.jpg" alt="client">
             </a>
         </li>
         <li>
             <a href="#testimonials">
-                <img class="img-fluid" src="assets/images/avatar/02.jpeg" alt="client">
+                <img class="img-fluid" src="assets/images/avatar/02.jpg" alt="client">
             </a>
         </li>
         <li>
             <a href="#testimonials">
-                <img class="img-fluid" src="assets/images/avatar/03.jpeg" alt="client">
+                <img class="img-fluid" src="assets/images/avatar/03.jpg" alt="client">
             </a>
         </li>
         <li>
             <a href="#testimonials">
-                <img class="img-fluid" src="assets/images/avatar/04.jpeg" alt="client">
+                <img class="img-fluid" src="assets/images/avatar/04.jpg" alt="client">
             </a>
         </li>
     </ul>
