@@ -7,8 +7,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
-    "vercel-build": "nuxt build"
+    "vercel-build": "nuxt prepare && nuxt build"
   },
   "engines": {
     "node": "24.x"
